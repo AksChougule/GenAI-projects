@@ -1,6 +1,6 @@
 # Generative AI experiments
 
-This is a collection of experiments to explore, try and learn about various generative AI advancements.
+## This is a collection of experiments to explore, try and learn about various generative AI advancements.
 
 Each directory is a standalone experiemnt. This of this as a training ground or incubation space.
 
